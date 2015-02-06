@@ -1,0 +1,4 @@
+prefix   : /pfth/
+top_dir  : /Users/wmsuke/app/pathConv/tmp
+write_dir: /Users/wmsuke/app/pathConv/write/
+exic_dir : /Users/wmsuke/app/pathConv/tmp
